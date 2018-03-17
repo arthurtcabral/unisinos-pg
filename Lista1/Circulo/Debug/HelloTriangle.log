@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arthur\desktop\arthur\unisinos\5 semestre\processamento gráfico\hellotriangle\hellotriangle\source.cpp(51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  HelloTriangle.vcxproj -> C:\Users\Arthur\Desktop\Arthur\UNISINOS\5 Semestre\Processamento Gráfico\HelloTriangle\Debug\HelloTriangle.exe
+  HelloTriangle.vcxproj -> C:\Users\Arthur\Desktop\Arthur\UNISINOS\5 Semestre\Processamento Gráfico\HelloTriangle\Debug\HelloTriangle.pdb (Partial PDB)
