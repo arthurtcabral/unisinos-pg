@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloTriangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SceneManager.cpp
+c:\users\arthur\desktop\arthur\unisinos\5 semestre\processamento gráfico\hellotransforms\hellotriangle\scenemanager.cpp(170): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\arthur\desktop\arthur\unisinos\5 semestre\processamento gráfico\hellotransforms\hellotriangle\scenemanager.cpp(171): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\arthur\desktop\arthur\unisinos\5 semestre\processamento gráfico\hellotransforms\hellotriangle\scenemanager.cpp(174): warning C4305: '+=': truncation from 'double' to 'float'
+  HelloTriangle.vcxproj -> C:\Users\Arthur\Desktop\Arthur\UNISINOS\5 Semestre\Processamento Gráfico\HelloTransforms\Debug\Transforms.exe
+  HelloTriangle.vcxproj -> C:\Users\Arthur\Desktop\Arthur\UNISINOS\5 Semestre\Processamento Gráfico\HelloTransforms\Debug\Transforms.pdb (Partial PDB)
