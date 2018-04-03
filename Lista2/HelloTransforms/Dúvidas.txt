@@ -1,4 +1,0 @@
-1- Como fazer dois triângulos independentes na tela?
-
-Até agora, só consegui fazer vários triângulos em um mesmo buffer, utilizando um shader.
-Preciso fazer mais de um shader? Preciso fazer mais de um VBO? Posso usar vários VBOS em apenas um VAO?
